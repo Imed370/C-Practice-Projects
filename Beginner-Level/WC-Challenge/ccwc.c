@@ -2,6 +2,9 @@
 #include <stdlib.h> // for EXIT_SUCCESS and EXIT_FAILURE
 #include <ctype.h>  // for isspace function
 #include <unistd.h> // for getopt function
+#include <getopt.h> // for getopt function
+
+extern int optind;
 
 void count(FILE *fp, int *chars, int *words, int *lines);
 void print_counts(int lines, int words, int chars, int print_lines, int print_words, int print_chars, const char *filename);
@@ -11,7 +14,7 @@ int main(int argc, char *argv[])
 	
 	int print_chars = 0, print_words = 0, print_lines = 0;
 	int chars = 0;
-	int words = 0
+	int words = 0;
 	int lines = 0;
 	int opt;
 	FILE *fp;
@@ -78,7 +81,7 @@ void count(FILE *fp, int *chars, int *words, int *lines)
 		}
 		if(isspace(ch)){
 			in_word = 0;
-		}else{
+		}else if(in_word == 0){
 			in_word = 1;
 			(*words)++;
 		}
