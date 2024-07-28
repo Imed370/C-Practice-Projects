@@ -13,6 +13,10 @@ A small program to count characters in strings
 
 ---
 
+#### Data Structures 
+
+---
+
 #### Intermediate Level:
 ##### WC Coding Challenge (https://codingchallenges.fyi/challenges/challenge-wc/)
 In this challenge the goal is to build the wc command line tool, which counts number of words, lines and characters in a FILE.  
