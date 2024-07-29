@@ -67,7 +67,7 @@ This repository contains some practice projects for the c language.
 
 
 
-### 1.3 Algorithms 
+### 1.3 Algorithms  
 
 1.3.1 -- Sorting Algorithms --  
 1.3.1.1 Bubble Sort -TODO-  
