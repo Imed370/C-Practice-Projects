@@ -12,14 +12,14 @@ This repo contains some practice projects for the c language.
 
 ---
 
-#### Beginner Level:
+#### Beginner Level Challenges:
 ##### Counting Letters
 A small program to count characters in strings  
 [Link](/Beginner-Level/Counting-Letters/)
 
 ---
 
-#### Intermediate Level:
+#### Intermediate Level Challenges:
 ##### WC Coding Challenge (https://codingchallenges.fyi/challenges/challenge-wc/)
 In this challenge the goal is to build the wc command line tool, which counts number of words, lines and characters in a FILE.  
 Test-Approach: bash script  
