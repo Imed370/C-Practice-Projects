@@ -37,6 +37,9 @@ Implementation of a Linked List Data Structure
 ---
 
 #### 2. Beginner Level Challenges:
+
+---
+
 ##### 2.1 Counting Letters
 A small program to count characters in strings  
 [Link](/Beginner-Level/Counting-Letters/)
@@ -45,6 +48,9 @@ A small program to count characters in strings
 ---
 
 #### 3. Intermediate Level Challenges:
+
+---
+
 ##### 3.1 WC Coding Challenge (https://codingchallenges.fyi/challenges/challenge-wc/)
 In this challenge the goal is to build the wc command line tool, which counts number of words, lines and characters in a FILE.  
 Test-Approach: bash script  
