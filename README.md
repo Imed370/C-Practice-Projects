@@ -17,6 +17,22 @@ This repo contains some practice projects for the c language.
 [Link](/Basic-Concepts/Basics/Strings)
 -TODO-
 
+1.1.4 Keywords:
+-TODO-
+
+1.1.5 Pointers:
+-TODO-
+
+1.1.6 Structures and Unions:
+-TODO-
+
+1.1.7 Dynamic Memory Allocation:
+-TODO-
+
+1.1.8: File I/O:
+-TODO-
+
+
 ### 1.2 Data Structures  
 1.2.1 Linked List:
 [Link](/Basic-Concepts/Data-Structures/Linked-List)
