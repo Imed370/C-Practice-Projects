@@ -69,29 +69,40 @@ This repository contains some practice projects for the c language.
 
 ### 1.3 Algorithms  
 
-1.3.1 -- Sorting Algorithms --  
+#### 1.3.1 --- Sorting Algorithms --- 
+
 1.3.1.1 Bubble Sort -TODO-  
+
 1.3.1.2 Selection Sort -TODO-  
+
 1.3.1.3 Insertion Sort -TODO-  
+
 1.3.1.4 Merge Sort -TODO-  
+
 1.3.1.5 Quick Sort -TODO-  
+
 1.3.1.6 Heap Sort  -TODO-  
-<br />
-1.3.2 -- Searching Algorithms --  
+
+#### 1.3.2 --- Searching Algorithms ---  
+
 1.3.2.1 Linear Search  -TODO-  
+
 1.3.2.2 Binary Search  -TODO-  
-<br />
-1.3.3 -- Pathfinding & Graph Algorithms --  
+
+#### 1.3.3 --- Pathfinding & Graph Algorithms ---  
+
 1.3.3.1 Dijkstra's Algorithm -TODO-  
+
 1.3.3.2 A* Algorithm -TODO-  
+
 1.3.3.3 Depth-First-Search -TODO-  
+
 1.3.3.4 Breadth-First-Search -TODO-  
-<br />
-1.3.4 -- Pathfinding & Graph Algorithms --  
-1.3.3.1 Dijkstra's Algorithm -TODO-  
-1.3.3.2 A* Algorithm -TODO-  
-1.3.3.3 Depth-First-Search -TODO-  
-1.3.3.4 Breadth-First-Search -TODO-  
+
+#### 1.3.4 --- Other Algorithms ---  
+
+1.3.4.1 Flood Fill -TODO-
+
 ---
 
 ## 2. Beginner Level Challenges:
