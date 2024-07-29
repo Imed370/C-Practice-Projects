@@ -1,6 +1,6 @@
 # C-Practice-Projects
 
-This repo contains some practice projects for the c language. 
+This repository contains some practice projects for the c language. 
 
 ## Contents:
 
@@ -35,6 +35,9 @@ This repo contains some practice projects for the c language.
 1.1.9: File I/O:
 -TODO-
 
+1.1.10: Testing
+-TODO-
+
 
 ### 1.2 Data Structures  
 1.2.1 Linked Lists:
@@ -66,12 +69,35 @@ This repo contains some practice projects for the c language.
 
 ### 1.3 Algorithms 
 
+1.3.1 -- Sorting Algorithms --  
+1.3.1.1 Bubble Sort -TODO-  
+1.3.1.2 Selection Sort -TODO-  
+1.3.1.3 Insertion Sort -TODO-  
+1.3.1.4 Merge Sort -TODO-  
+1.3.1.5 Quick Sort -TODO-  
+1.3.1.6 Heap Sort  -TODO-  
+<br />
+1.3.2 -- Searching Algorithms --  
+1.3.2.1 Linear Search  -TODO-  
+1.3.2.2 Binary Search  -TODO-  
+<br />
+1.3.3 -- Pathfinding & Graph Algorithms --  
+1.3.3.1 Dijkstra's Algorithm -TODO-  
+1.3.3.2 A* Algorithm -TODO-  
+1.3.3.3 Depth-First-Search -TODO-  
+1.3.3.4 Breadth-First-Search -TODO-  
+<br />
+1.3.4 -- Pathfinding & Graph Algorithms --  
+1.3.3.1 Dijkstra's Algorithm -TODO-  
+1.3.3.2 A* Algorithm -TODO-  
+1.3.3.3 Depth-First-Search -TODO-  
+1.3.3.4 Breadth-First-Search -TODO-  
 ---
 
 ## 2. Beginner Level Challenges:
 
 ### 2.1 Counting Letters
-A small program to count characters in strings  :
+A small program to count characters in strings:  
 [Link](/Beginner-Level/Counting-Letters/)
 -TODO-
 
