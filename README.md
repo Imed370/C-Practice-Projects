@@ -26,17 +26,43 @@ This repo contains some practice projects for the c language.
 1.1.6 Structures and Unions:
 -TODO-
 
-1.1.7 Dynamic Memory Allocation:
+1.1.7 Threads
 -TODO-
 
-1.1.8: File I/O:
+1.1.8 Dynamic Memory Allocation:
+-TODO-
+
+1.1.9: File I/O:
 -TODO-
 
 
 ### 1.2 Data Structures  
-1.2.1 Linked List:
+1.2.1 Linked Lists:
 [Link](/Basic-Concepts/Data-Structures/Linked-List)
 -TODO-
+
+1.2.2 Stacks
+-TODO-
+
+1.2.3 Queues
+-TODO-
+
+1.2.3 Heaps
+-TODO-
+
+1.2.4 HashMaps
+-TODO-
+
+1.2.5 Graphs
+-TODO-
+
+1.2.6 Binary Trees
+-TODO-
+
+1.2.7 Other Trees
+-TODO
+
+
 
 ### 1.3 Algorithms 
 
