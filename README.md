@@ -4,16 +4,18 @@ This repo contains some practice projects for the c language.
 
 ## Contents:
 
+#### Basic Concepts  
+
+
+##### Data Structures 
+##### Algorithms 
+
 ---
 
 #### Beginner Level:
 ##### Counting Letters
 A small program to count characters in strings  
 [Link](/Beginner-Level/Counting-Letters/)
-
----
-
-#### Data Structures 
 
 ---
 
