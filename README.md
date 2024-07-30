@@ -103,6 +103,10 @@ This repository contains some practice projects for the c language.
 
 1.3.4.1 Flood Fill -TODO-
 
+### 1.4 Important Functions  
+
+1.4.1 Memset  
+
 ---
 
 ## 2. Beginner Level Challenges:
