@@ -14,8 +14,7 @@ This repository contains some practice projects for the c language.
 [Link](/Basic-Concepts/Basics/Operators/) 
 
 1.1.3 Strings:
-[Link](/Basic-Concepts/Basics/Strings)
--TODO-
+[Link](/Basic-Concepts/Basics/Strings)  
 
 1.1.4 Keywords:
 -TODO-
