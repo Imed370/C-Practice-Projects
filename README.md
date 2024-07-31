@@ -17,7 +17,7 @@ This repository contains some practice projects for the c language.
 [Link](/Basic-Concepts/Basics/Strings)  
 
 1.1.4 Keywords:
--TODO-
+[Link](/Basic-Concepts/Basics/Keywords)  
 
 1.1.5 Pointers:
 -TODO-
