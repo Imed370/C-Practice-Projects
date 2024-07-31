@@ -22,19 +22,25 @@ This repository contains some practice projects for the c language.
 1.1.5 Pointers:
 -TODO-
 
-1.1.6 Structures and Unions:
+1.1.6 Function Pointers
 -TODO-
 
-1.1.7 Threads
+1.1.7 Structures and Unions:
 -TODO-
 
-1.1.8 Dynamic Memory Allocation:
+1.1.8 Threads
 -TODO-
 
-1.1.9: File I/O:
+1.1.9 Dynamic Memory Allocation:
 -TODO-
 
-1.1.10: Testing
+1.1.10: File I/O:
+-TODO-
+
+1.1.11 Bitwise Operations:
+-TODO-
+
+1.1.11: Testing
 -TODO-
 
 
@@ -82,6 +88,8 @@ This repository contains some practice projects for the c language.
 
 1.3.1.6 Heap Sort  -TODO-  
 
+1.3.1.7 Comparison -TODO-  
+
 #### 1.3.2 --- Searching Algorithms ---  
 
 1.3.2.1 Linear Search  -TODO-  
@@ -102,9 +110,32 @@ This repository contains some practice projects for the c language.
 
 1.3.4.1 Flood Fill -TODO-
 
-### 1.4 Important Functions  
+### 1.4 Advanced Topics  
 
-1.4.1 Memset  
+1.4.1 Program Memory Layout -TODO-  
+
+1.4.2 Dynamic Loading and Linking -TODO-  
+
+1.4.3 Signal Handling / Interrupts -TODO-  
+
+1.4.4 Interprocess Communication -TODO-  
+
+1.4.5 Memory Mapped IO -TODO-  
+
+1.4.6 Virtual Memory and Paging (FIFO,LRU,etc.) -TODO-  
+
+1.4.7 Address Space Layout Randomization (ASLR) -TODO-  
+
+1.4.8 Buffer Overflow / Underflow -TODO-  
+
+1.4.9 Executable and Linkable Format (ELF) -TODO-  
+
+1.4.10 Optimizations and Memory Alignment -TODO-  
+
+1.4.11 Debugging (Valgrind,asan,gdb) -TODO-  
+
+1.4.12 Cppcheck -TODO-  
+
 
 ---
 
