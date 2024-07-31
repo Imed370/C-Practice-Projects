@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
+//How to initialize and use Strings in C, also some functions from string.h
+int main()
+{
+    //Strings in c are character arrays
 
     //Initialization of Strings
     char str[] = "Hello World!";
@@ -31,14 +34,17 @@ int main(){
     char input[100];
     printf("Please Enter Your Name:");
     //Read Input String
-    if(fgets(input, sizeof(input), stdin) != NULL){
+    if(fgets(input, sizeof(input), stdin) != NULL)
+    {
         //Remove newline character if present
         size_t len = strlen(input);
         if(len > 0 && input[len -1] == '\n'){
             input[len -1] = '\0';//Replace with null terminator
         }
         printf("You entered:%s\n", input);  
-    }else{
+    }
+    else
+    {
         printf("Error Reading Input.");
     }
 
@@ -60,8 +66,8 @@ int main(){
 
     //strncpy() copying more safely 
     //No Overlfow if the array is too short 
-    char str7[13];
-    strncpy(str7, "Hello, World!", sizeof(str7) - 1);//sizeof() returns size in bytes
+    char str7[14];
+    strncpy(str7, "Hello, World!", sizeof(str7) -1 );//sizeof() returns size in bytes
     str5[sizeof(str7) - 1] = '\0'; // Ensure null-termination
     printf("%s\n", str7);//Output will be Hello World!
 
@@ -70,15 +76,27 @@ int main(){
     char dest[13] = "Hello";
     char src[] = " World!";
     strcat(dest,src);
-    printf("Concatenated string:%s", dest);
+    printf("Concatenated string:%s\n", dest);
 
     //strncat() safer way of concatenating two strings
     char dest1[12] = "Hello";
     char src1[] = " World!";
-    strncat(dest1,src1,7/*Maximum*/); 
-    
+    strncat(dest1,src1,7); 
+    printf("Concatenated string:%s\n", dest1);
+
+    //strcmp(str1,str2) compares two strings 
+    //and returns <0, 0, >0 if str1 is less than, equal, or more than str2 respectively 
+    printf("%d\n",strcmp("ABC", "ABC"));//prints 0
+    printf("%d\n",strcmp("ABD", "ABC"));//prints a number > 0
+    printf("%d\n",strcmp("ABB", "ABC"));//prints a number < 0
+    //strncmp(str1,str2,n) compares the first n positions of the strings
+
+    //char* strstr(const char *haystack, const char *needle);
+    //Find the first occurrence of the substring needle in the string haystack
+    //returning a pointer to the found substring
+    printf("%s\n",strstr("ABCABBA","ABB"));//prints:"ABBA" 
+
 
 
 }
 
-//demonstrate problem with stings(overflow,) how to take user input string properly
