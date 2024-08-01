@@ -22,7 +22,7 @@ This repository contains some practice projects for the c language.
 1.1.5 Pointers:
 [Link](/Basic-Concepts/Basics/Pointers)  
 
-1.1.6 Function Pointers
+1.1.6 Bitwise Operations
 -TODO-
 
 1.1.7 Structures and Unions:
@@ -31,19 +31,22 @@ This repository contains some practice projects for the c language.
 1.1.8 Type Casting
 -TODO-
 
-1.1.9 Threads
+1.1.9 Library Functions
 -TODO-
 
 1.1.10 Dynamic Memory Allocation:
 -TODO-
 
-1.1.11: File I/O:
+1.1.11 File I/O:
 -TODO-
 
-1.1.12 Bitwise Operations:
+1.1.12 Function Pointers:
 -TODO-
 
-1.1.13: Testing
+1.1.13 Threads
+-TODO-
+
+1.1.14 Testing
 -TODO-
 
 
