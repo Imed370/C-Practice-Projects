@@ -18,7 +18,7 @@ int main(){
     int b = 2 - 1; // 2 - 1 = 1
     int c = 1 * 2; // 1 * 2 = 2
     int d = 4 / 2; // 4 / 2 = 2
-    int e = 5 % 3; // 5 / 3 = 1 remainer 2
+    int e = 5 % 3; // 5 / 3 = 1 remainder 2
     int f = 5;     // 5 
     f++;       // 6
     int g = 6;     // 6
