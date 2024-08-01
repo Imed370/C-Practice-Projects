@@ -20,7 +20,7 @@ This repository contains some practice projects for the c language.
 [Link](/Basic-Concepts/Basics/Keywords)  
 
 1.1.5 Pointers:
--TODO-
+[Link](/Basic-Concepts/Basics/Pointers)  
 
 1.1.6 Function Pointers
 -TODO-
