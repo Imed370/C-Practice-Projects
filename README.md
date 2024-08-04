@@ -19,35 +19,41 @@ This repository contains some practice projects for the c language.
 1.1.4 Keywords:
 [Link](/Basic-Concepts/Basics/Keywords)  
 
-1.1.5 Pointers:
+1.1.5 Command Line Arguments:
+-TODO-
+
+1.1.6 Pointers:
 [Link](/Basic-Concepts/Basics/Pointers)  
 
-1.1.6 Bitwise Operations
+1.1.7 Bitwise Operations
 -TODO-
 
-1.1.7 Structures and Unions:
+1.1.8 Structures and Unions:
 -TODO-
 
-1.1.8 Type Casting
+1.1.9 Type Casting
 -TODO-
 
-1.1.9 Library Functions
+1.1.10 Library Functions
 -TODO-
 
-1.1.10 Dynamic Memory Allocation:
+1.1.11 Dynamic Memory Allocation:
 -TODO-
 
-1.1.11 File I/O:
+1.1.12 File I/O:
 -TODO-
 
-1.1.12 Function Pointers:
+1.1.13 Function Pointers:
 -TODO-
 
-1.1.13 Threads
+1.1.14 Threads
 -TODO-
 
-1.1.14 Testing
+1.1.15 Preprocessor Directives: Macros, include guards, conditional compilation
 -TODO-
+
+1.1.16 Testing
+-TODO-  
 
 
 ### 1.2 Data Structures  
@@ -135,6 +141,8 @@ This repository contains some practice projects for the c language.
 1.4.8 Buffer Overflow / Underflow -TODO-  
 
 1.4.9 Executable and Linkable Format (ELF) -TODO-  
+
+1.4.10 System Calls -TODO-  
 
 1.4.10 Optimizations and Memory Alignment -TODO-  
 
