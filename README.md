@@ -56,99 +56,34 @@ This repository contains some practice projects for the c language.
 -TODO-  
 
 
-### 1.2 Data Structures  
-1.2.1 Linked Lists:
-[Link](/Basic-Concepts/Data-Structures/Linked-List)
--TODO-
 
-1.2.2 Stacks
--TODO-
+### 1.2 Advanced Topics  
 
-1.2.3 Queues
--TODO-
+1.2.1 Program Memory Layout -TODO-  
 
-1.2.3 Heaps
--TODO-
+1.2.2 Dynamic Loading and Linking -TODO-  
 
-1.2.4 HashMaps
--TODO-
+1.2.3 Signal Handling / Interrupts -TODO-  
 
-1.2.5 Graphs
--TODO-
+1.2.4 Interprocess Communication -TODO-  
 
-1.2.6 Binary Trees
--TODO-
+1.2.5 Memory Mapped IO -TODO-  
 
-1.2.7 Other Trees
--TODO
+1.2.6 Virtual Memory and Paging (FIFO,LRU,etc.) -TODO-  
 
+1.2.7 Address Space Layout Randomization (ASLR) -TODO-  
 
+1.2.8 Buffer Overflow / Underflow -TODO-  
 
-### 1.3 Algorithms  
+1.2.9 Executable and Linkable Format (ELF) -TODO-  
 
-#### 1.3.1 --- Sorting Algorithms --- 
+1.2.10 System Calls -TODO-  
 
-1.3.1.1 Bubble Sort -TODO-  
+1.2.10 Optimizations and Memory Alignment -TODO-  
 
-1.3.1.2 Selection Sort -TODO-  
+1.2.11 Debugging (Valgrind,asan,gdb) -TODO-  
 
-1.3.1.3 Insertion Sort -TODO-  
-
-1.3.1.4 Merge Sort -TODO-  
-
-1.3.1.5 Quick Sort -TODO-  
-
-1.3.1.6 Heap Sort  -TODO-  
-
-1.3.1.7 Comparison -TODO-  
-
-#### 1.3.2 --- Searching Algorithms ---  
-
-1.3.2.1 Linear Search  -TODO-  
-
-1.3.2.2 Binary Search  -TODO-  
-
-#### 1.3.3 --- Pathfinding & Graph Algorithms ---  
-
-1.3.3.1 Dijkstra's Algorithm -TODO-  
-
-1.3.3.2 A* Algorithm -TODO-  
-
-1.3.3.3 Depth-First-Search -TODO-  
-
-1.3.3.4 Breadth-First-Search -TODO-  
-
-#### 1.3.4 --- Other Algorithms ---  
-
-1.3.4.1 Flood Fill -TODO-
-
-### 1.4 Advanced Topics  
-
-1.4.1 Program Memory Layout -TODO-  
-
-1.4.2 Dynamic Loading and Linking -TODO-  
-
-1.4.3 Signal Handling / Interrupts -TODO-  
-
-1.4.4 Interprocess Communication -TODO-  
-
-1.4.5 Memory Mapped IO -TODO-  
-
-1.4.6 Virtual Memory and Paging (FIFO,LRU,etc.) -TODO-  
-
-1.4.7 Address Space Layout Randomization (ASLR) -TODO-  
-
-1.4.8 Buffer Overflow / Underflow -TODO-  
-
-1.4.9 Executable and Linkable Format (ELF) -TODO-  
-
-1.4.10 System Calls -TODO-  
-
-1.4.10 Optimizations and Memory Alignment -TODO-  
-
-1.4.11 Debugging (Valgrind,asan,gdb) -TODO-  
-
-1.4.12 Cppcheck -TODO-  
+1.2.12 Cppcheck -TODO-  
 
 
 ---
