@@ -30,6 +30,10 @@
         auto 	    Lifetime of the variable is limited to the block its declared in (default)
         extern 	    Declares a variable or function that is defined in another file
         static 	    Indicates that a variable retains its value between function calls
+        static      Functions that are static, have a limited scope, they cannot be used outside of the file
+        inline      Suggests to the compiler to try to embed the code of a function directly at the point where the function
+                    is called, rather than generating a call to the function. This can potentially improve performance by 
+                    eliminating the overhead of a function call, especially for small, frequently-called functions
     
     */
 
