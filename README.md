@@ -20,7 +20,7 @@ This repository contains some practice projects for the c language.
 [Link](/Basic-Concepts/Basics/Keywords)  
 
 1.1.5 Command Line Arguments:
--TODO-
+[Link](/Basic-Concepts/Basics/Command-Line-Arguments/)
 
 1.1.6 Pointers:
 [Link](/Basic-Concepts/Basics/Pointers)  
