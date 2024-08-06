@@ -74,11 +74,14 @@ int main(){
     int result = number & bitmask; // result is 1 (least significant bit of 147 is 1)
 
 
+    // Print results to verify correctness
+    printf("Result of AND operation: %d\n", 0b1010 & 0b0111); // 2
+    printf("Result of OR operation: %d\n", 0b1010 | 0b0111); // 15
+    printf("Result of XOR operation: %d\n", 0b1010 ^ 0b0111); // 13
+    printf("Negation of 10: %d\n", ~10); // -11
+    printf("Number after setting bit: %d\n", number); // 15
+    printf("Number after clearing bit: %d\n", number); // 7
+    printf("Number after toggling bit: %d\n", 14); // 14
+    printf("Result of bit check: %d\n", result); // 1
 
-
-
-
-
-
-    
 } 
