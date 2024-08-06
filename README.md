@@ -26,7 +26,7 @@ This repository contains some practice projects for the c language.
 [Link](/Basic-Concepts/Basics/Pointers)  
 
 1.1.7 Bitwise Operations
--TODO-
+[Link](/Basic-Concepts/Basics/Bitwise-Operations)  
 
 1.1.8 Structures and Unions:
 -TODO-
