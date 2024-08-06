@@ -29,7 +29,7 @@ This repository contains some practice projects for the c language.
 [Link](/Basic-Concepts/Basics/Bitwise-Operations)  
 
 1.1.8 Type Casting
--TODO-
+[Link](/Basic-Concepts/Basics/Type-Casting/)  
 
 1.1.9 Library Functions
 -TODO-
