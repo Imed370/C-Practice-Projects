@@ -28,16 +28,16 @@ This repository contains some practice projects for the c language.
 1.1.7 Bitwise Operations
 [Link](/Basic-Concepts/Basics/Bitwise-Operations)  
 
-1.1.8 Structures and Unions:
+1.1.8 Type Casting
 -TODO-
 
-1.1.9 Type Casting
+1.1.9 Library Functions
 -TODO-
 
-1.1.10 Library Functions
+1.1.10 Dynamic Memory Allocation:
 -TODO-
 
-1.1.11 Dynamic Memory Allocation:
+1.1.11 Structures and Unions:
 -TODO-
 
 1.1.12 File I/O:
